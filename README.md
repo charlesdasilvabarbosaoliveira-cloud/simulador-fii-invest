@@ -1,3 +1,5 @@
+<img width="1138" height="423" alt="perfilmoderado" src="https://github.com/user-attachments/assets/ee320151-9767-469c-8536-0556aa26633d" />
+<img width="841" height="409" alt="perfilarrojado" src="https://github.com/user-attachments/assets/38b9448b-7855-4c0a-9b08-51688ef96eb5" />
 # 🏢 FII INVEST — Simulador de Fundos Imobiliários no Excel
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Planilha-217346?logo=microsoftexcel&logoColor=white)
